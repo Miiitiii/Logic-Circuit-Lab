@@ -19,3 +19,18 @@ Truth Tables
 >XOR
 ![Alt text](https://github.com/Miiitiii/Logic-Circuit-Lab/blob/main/ex1/Truth%20Tables/XOR/quadruple%20XOR.png) 
 
+
+NAND Circuit
+>Truth Table
+![Alt text](https://github.com/Miiitiii/Logic-Circuit-Lab/blob/main/ex1/NAND%20Circuit/Truth_Table.png) 
+
+>Question 1
+![Alt text](https://github.com/Miiitiii/Logic-Circuit-Lab/blob/main/ex1/NAND%20Circuit/Question%201.jpg) 
+
+>Question 4
+![Alt text](https://github.com/Miiitiii/Logic-Circuit-Lab/blob/main/ex1/NAND%20Circuit/NAND%20Circuit4.png) 
+
+>Question 5
+![Alt text](https://github.com/Miiitiii/Logic-Circuit-Lab/blob/main/ex1/NAND%20Circuit/NAND%20Circuit5.png) 
+
+
