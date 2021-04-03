@@ -1,6 +1,6 @@
 # Logic Circuit Lab
 ## First task 
-> Truth Tables
+Truth Tables
 > AND
 ![Alt text](https://github.com/Miiitiii/Logic-Circuit-Lab/blob/main/ex1/Truth%20Tables/AND/quadruple%20AND.png) 
 
